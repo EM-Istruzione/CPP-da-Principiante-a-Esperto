@@ -15,7 +15,7 @@ struct personalData {
 
 void modify(personalData *);
 
-int main() {
+int int main(void) {
 
     personalData person[5];
 

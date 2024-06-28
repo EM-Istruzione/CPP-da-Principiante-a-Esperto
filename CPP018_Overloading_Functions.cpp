@@ -11,7 +11,7 @@ double power(double,int);
 //While overloading functions the function name will be the same.
 //Function return type and function parameters will be different.
 
-int main() {
+int int main(void) {
 
     cout<<power(2.8,3)<<endl;
     cout<<power(2,3)<<endl;

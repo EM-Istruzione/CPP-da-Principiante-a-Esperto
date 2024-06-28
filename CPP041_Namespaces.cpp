@@ -16,7 +16,7 @@ namespace B
     int var = 40;
 }
 
-int main() {
+int int main(void) {
     int var = 50;
     //Accessing var from namespace std
     cout<<var<<endl;

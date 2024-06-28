@@ -18,7 +18,7 @@ int printLength(Box b)
     b.length += 10;
     return b.length;
 }
-int main()
+int int main(void)
 {
     Box b;
     cout<<"Length of box: "<< printLength(b)<<endl;

@@ -6,7 +6,7 @@
 #include<iostream>
 using namespace std;
 
-int main() {
+int int main(void) {
 
     int var = 5;
     cout<<&var<<endl; //Prints the address

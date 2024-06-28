@@ -31,7 +31,7 @@ public:
    }
 };
 
-int main() {
+int int main(void) {
    ABC obj;
    XYZ obj2;
    obj.disp(obj2);

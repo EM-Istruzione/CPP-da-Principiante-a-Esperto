@@ -6,7 +6,7 @@
 #include<iostream>
 using namespace std;
 
-main() {
+int main(void) {
     int num,digits_count=1;
     cin>>num;
     int temp=num;

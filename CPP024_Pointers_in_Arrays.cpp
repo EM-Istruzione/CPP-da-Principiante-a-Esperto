@@ -6,7 +6,7 @@
 #include<iostream>
 using namespace std;
 
-int main() {
+int int main(void) {
 
     int a[3]={10,20,30};
     short int zm;

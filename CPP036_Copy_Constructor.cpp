@@ -36,7 +36,7 @@ class Samplecopyconstructor
     }
 };
 /* main function */
-int main()
+int int main(void)
 {
     Samplecopyconstructor obj1(10, 15);     // Normal constructor
     Samplecopyconstructor obj2 = obj1;      // Copy constructor

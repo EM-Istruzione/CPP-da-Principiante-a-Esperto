@@ -36,7 +36,7 @@ class Circle : public Shape
        float calculateArea()
        { return 3.14*l*l; }
 };
-int main()
+int int main(void)
 {
     Square s;
     Circle c;

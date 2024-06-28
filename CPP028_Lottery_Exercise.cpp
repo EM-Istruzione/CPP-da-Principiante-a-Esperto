@@ -10,7 +10,7 @@ using namespace std;
 
 void lottery(int, int);
 
-int main() {
+int int main(void) {
 
     int total_people,total_winners;
     cout<<"Enter the total number of people : "<<endl;

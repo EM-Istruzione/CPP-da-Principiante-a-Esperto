@@ -6,7 +6,7 @@
 #include <iostream>
 using namespace std;
 
-main()
+int main(void)
 {
     int array[4]; //Type_Name[Size_of_Elements]
 

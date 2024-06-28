@@ -41,7 +41,7 @@ class MyDetails {
         }
 };
 
-int main() {
+int int main(void) {
 
     MyDetails p1;
     MyDetails p2;

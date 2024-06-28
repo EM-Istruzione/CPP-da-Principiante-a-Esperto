@@ -8,7 +8,7 @@ using namespace std;
 
 void swap(int &, int &);
 
-int main() {
+int int main(void) {
 
     int a=10,b=20;
     swap(a,b);

@@ -15,8 +15,8 @@ void enterString();
 double add(double a,double b) {return a+b;}
 
 void changeValueTO10(int x) { x=10; }
-//main() is a function
-int main() {
+//int main(void) is a function
+int int main(void) {
 
     welcome();
 

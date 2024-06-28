@@ -13,7 +13,7 @@ using namespace std;
 ~ Must be of the same type as associated variables.
 */
 
-int main() {
+int int main(void) {
 
     string name="Peter";
     cout<<"Value of variable is : "<<name<<". Address of variable is : "<<&name<<endl;

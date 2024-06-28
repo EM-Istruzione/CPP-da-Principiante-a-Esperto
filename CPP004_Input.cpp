@@ -1,22 +1,26 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-main()
-{
-    // cin - console input
+int main(void) {
+    // CIN - Input da Tastiera (terminale o console)
     int a;
     cin >> a;
-    cout << "Variable name a = " << a << endl;
+    cout << "Valore di a dopo la lettura: " << a << endl;
 
-    string name,surname;
+    string nome, cognome;
 
-    cout << "Enter your name : ";
-    cin >> name;
+    cout << "Inserisci il tuo nome: ";
+    cin >> nome;
 
-    cout << "Enter your surname : ";
-    cin >> surname;
+    cout << "Inserisci il tuo cognome: ";
+    cin >> cognome;
 
-    cout << "Welcome "<<name<<" "<<surname<<endl;
+    cout << "Ciao " << nome << " " << cognome << endl;
 
+    /*
+        Il CIN identifica autonomamente il tipo di valore da leggere in base alla variabile in cui vogliamo salvarlo
+    */
+
+   return 0;
 }

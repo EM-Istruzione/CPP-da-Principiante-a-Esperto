@@ -15,7 +15,7 @@ double areaRectangle(double,double);
 double areaTriangle(double,double);
 
 
-int main() {
+int int main(void) {
 
     int choice;
     char cont;

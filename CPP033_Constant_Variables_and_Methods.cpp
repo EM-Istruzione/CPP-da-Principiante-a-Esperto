@@ -21,7 +21,7 @@ class Demo
     }
 };
 
-int main()
+int int main(void)
 {
     const Demo d1;
     //d1.showMessage(); Error occurred if uncomment.

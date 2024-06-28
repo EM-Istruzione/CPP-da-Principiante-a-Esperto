@@ -6,7 +6,7 @@
 #include<iostream>
 using namespace std;
 
-int main() {
+int int main(void) {
 
     int amount;
     cout<<"How many numbers would you like to store in the array ? "<<endl;

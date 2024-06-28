@@ -6,7 +6,7 @@
 #include <iostream>
 using namespace std;
 
-main()
+int main(void)
 {
     int biArray[3][4]={0}; //Initialize all array elements to zero
 

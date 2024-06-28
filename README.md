@@ -2,23 +2,25 @@
 
 ![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/213px-ISO_C%2B%2B_Logo.svg.png)
 
-***Basic to Expert level concepts implemented using the C++ language.***
+***Da Principiante a Esperto nella programmazione in C++***
 
-The following topics are covered in my repository : 
+Struttura della repository e argomenti trattati: 
 
-:white_check_mark: CPP001_First_Program.cpp - First program, display "Hello World !"
+:white_check_mark: CPP001_Hello_World.cpp - Primo programma, stampa "Hello, World!"
 
-:white_check_mark: CPP002_Variables.cpp - Introduction to variables
+:white_check_mark: CPP002_Variabili.cpp - Introduzione alla variabili
 
-:white_check_mark: CPP003_Variables_Types.cpp - Getting familier with the datatypes 
+:white_check_mark: CPP003_Tipi_e_Modificatori.cpp - Introduzione ai TIPI e ai loro modificatori
 
-:white_check_mark: CPP004_Input.cpp - Console Input / Output
+:white_check_mark: CPP004_Input.cpp - Input da tastiera CIN
 
-:white_check_mark: CPP005_Arithmetic_Assignment_Increment_Decrement_Operators.cpp - Arithmetic, Assignment, Increment, Decrement Operators
+:white_check_mark: CPP005_Operatori_Artimetici.cpp - Operatori artimetici, assegnamento, incremento e decremento
 
-:white_check_mark: CPP006_Relational_Operators.cpp - Relational Operators 
+:white_check_mark: CPP006_Operatori_di_Confronto.cpp - Operatori di confronto tra variabili e letterali
 
-:white_check_mark: CPP007_Logical_Operators.cpp - Logical Operators 
+:white_check_mark: CPP007_Operatori_Logici.cpp - Operatori logici
+
+**WIP:**
 
 :white_check_mark: CPP008_Calculator_Exercise.cpp - Simple Calculator Program
 
@@ -89,4 +91,5 @@ The following topics are covered in my repository :
 :white_check_mark: CPP041_Namespaces.cpp - Understanding Namespaces
 
 
-***Contributed with  :blue_heart:  by Tridib***
+***Prodotto con :blue_heart: Tridib***
+***Tradotto in ITALIANO da :blue_heart: Elia Menoni ***

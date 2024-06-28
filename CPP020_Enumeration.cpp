@@ -10,7 +10,7 @@ enum dayOfWeek {Monday = 1, Tuesday, Wednesday, Thursday, Friday, Saturday, Sund
 
 string getDay(dayOfWeek);
 
-int main() {
+int int main(void) {
 
     //dayOfWeek d = Wednesday;
     //cout<<d<<endl;

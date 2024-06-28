@@ -22,7 +22,7 @@
     return a/b;
  }
 
- int main() {
+ int int main(void) {
     double result;
     try {
         result = division(13,0);

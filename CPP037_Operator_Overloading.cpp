@@ -49,7 +49,7 @@ public:
  }
 };
 
-int main()
+int int main(void)
 {
  MinusOverload M1(6, 8), M2(-3, -4);
  -M1;

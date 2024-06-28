@@ -6,7 +6,7 @@
 #include<iostream>
 using namespace std;
 
-int main() {
+int int main(void) {
 
     string text = "Hello"; // H e l l o \0
 

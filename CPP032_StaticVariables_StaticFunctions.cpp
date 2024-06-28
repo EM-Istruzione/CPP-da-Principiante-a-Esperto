@@ -25,7 +25,7 @@ void demo()
     count++;
 }
 
-int main()
+int int main(void)
 {
     for (int i=1; i<=5; i++)
         demo();

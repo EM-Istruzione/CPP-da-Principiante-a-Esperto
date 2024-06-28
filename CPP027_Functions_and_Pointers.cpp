@@ -8,7 +8,7 @@ using namespace std;
 
 void multiplyBy(int *, int);
 void multiplyArrayBy(int *, int, int);
-int main() {
+int int main(void) {
 
     int a = 10;
 

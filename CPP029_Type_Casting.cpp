@@ -6,7 +6,7 @@
 #include<iostream>
 using namespace std;
 
-int main() {
+int int main(void) {
 
     double val=5.5;
 

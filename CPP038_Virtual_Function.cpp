@@ -22,7 +22,7 @@ class B:public A
   cout << "Derived Class is invoked"<<endl;
  }
 };
-int main()
+int int main(void)
 {
  A* a;    //pointer of base class
  B b;     //object of derived class
