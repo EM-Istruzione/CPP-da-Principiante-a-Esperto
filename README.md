@@ -20,11 +20,11 @@ Struttura della repository e argomenti trattati:
 
 :white_check_mark: CPP007_Operatori_Logici.cpp - Operatori logici
 
+:white_check_mark: CPP008_Switch_Esercizio_Calcolatrice - Spiegazione utilizzao SWITCH tramite esercizio della calcolatrice
+
+:white_check_mark: CPP009_Arrays.cpp - Arrays (Vettori)
+
 **WIP:**
-
-:white_check_mark: CPP008_Calculator_Exercise.cpp - Simple Calculator Program
-
-:white_check_mark: CPP009_Arrays.cpp - Arrays
 
 :white_check_mark: CPP010_Multidimensional_Arrays.cpp - Multidimensional Arrays
 
@@ -92,4 +92,5 @@ Struttura della repository e argomenti trattati:
 
 
 ***Prodotto con :blue_heart: Tridib***
-***Tradotto in ITALIANO da :blue_heart: Elia Menoni ***
+
+***Tradotto in ITALIANO da :blue_heart: Elia Menoni***

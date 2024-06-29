@@ -1,6 +1,8 @@
 /**
- * Author:    Tridib Samanta
- * Created:   17.11.2019
+ * Author:          Tridib Samanta
+ * Translated by:   Elia Menoni
+ * Created:         17.11.2019
+ * Updated:         30.06.2024
  **/
 
 #include <iostream>

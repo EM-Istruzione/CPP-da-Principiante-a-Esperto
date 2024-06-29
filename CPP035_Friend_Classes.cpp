@@ -1,6 +1,8 @@
 /**
- * Author:    Tridib Samanta
- * Created:   08.02.2020
+ * Author:          Tridib Samanta
+ * Translated by:   Elia Menoni
+ * Created:         08.02.2020
+ * Updated:         30.06.2024
  **/
 
  // A friend class is a class that can access the private
