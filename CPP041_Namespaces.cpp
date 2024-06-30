@@ -5,26 +5,26 @@
  * Updated:         30.06.2024
  **/
 
-#include<iostream>
-using namespace std;
+#include <iostream>  // Inclusione della libreria standard per input/output.
+using namespace std; // Uso dello spazio dei nomi standard per evitare di prefissare std::.
 
-namespace A
-{
-    int var = 20;
+// Definizione dello spazio dei nomi A.
+namespace A {
+    int valoreInA = 20; // Variabile 'valoreInA' nello spazio dei nomi A.
 }
 
-namespace B
-{
-    int var = 40;
+// Definizione dello spazio dei nomi B.
+namespace B {
+    int valoreInB = 40; // Variabile 'valoreInB' nello spazio dei nomi B.
 }
 
-int int main(void) {
-    int var = 50;
-    //Accessing var from namespace std
-    cout<<var<<endl;
-    //Accessing var from namespace A
-    cout<<A::var<<endl;
-    //Accessing var from namespace B
-    cout<<B::var<<endl;
+int main(void) {
+    int valoreLocale = 50; // Variabile locale 'valoreLocale'.
+    // Accesso alla variabile locale.
+    cout << "Valore locale: " << valoreLocale << endl;
+    // Accesso alla variabile 'valoreInA' nello spazio dei nomi A.
+    cout << "Valore in A: " << A::valoreInA << endl;
+    // Accesso alla variabile 'valoreInB' nello spazio dei nomi B.
+    cout << "Valore in B: " << B::valoreInB << endl;
     return 0;
 }

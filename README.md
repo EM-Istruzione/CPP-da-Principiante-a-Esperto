@@ -8,19 +8,19 @@ Struttura della repository e argomenti trattati:
 
 :white_check_mark: CPP001_Hello_World.cpp - Primo programma, stampa "Hello, World!"
 
-:white_check_mark: CPP002_Variabili.cpp - Introduzione alla variabili
+:white_check_mark: CPP002_Variabili.cpp - Introduzione alle variabili
 
 :white_check_mark: CPP003_Tipi_e_Modificatori.cpp - Introduzione ai TIPI e ai loro modificatori
 
 :white_check_mark: CPP004_Input.cpp - Input da tastiera CIN
 
-:white_check_mark: CPP005_Operatori_Artimetici.cpp - Operatori artimetici, assegnamento, incremento e decremento
+:white_check_mark: CPP005_Operatori_Aritmetici.cpp - Operatori aritmetici, assegnamento, incremento e decremento
 
 :white_check_mark: CPP006_Operatori_di_Confronto.cpp - Operatori di confronto tra variabili e letterali
 
 :white_check_mark: CPP007_Operatori_Logici.cpp - Operatori logici
 
-:white_check_mark: CPP008_Switch_Esercizio_Calcolatrice - Spiegazione utilizzao SWITCH tramite esercizio della calcolatrice
+:white_check_mark: CPP008_Switch_Esercizio_Calcolatrice.cpp - Spiegazione utilizzo SWITCH tramite esercizio della calcolatrice
 
 :white_check_mark: CPP009_Arrays.cpp - Arrays (Vettori)
 
@@ -68,27 +68,25 @@ Struttura della repository e argomenti trattati:
 
 :white_check_mark: CPP031_Classi.cpp - Classi, costruttori, distruttori
 
-**WIP:**
+:white_check_mark: CPP032_VariabiliStatiche_FunzioniStatiche.cpp - Variabili statiche e funzioni statiche
 
-:white_check_mark: CPP032_StaticVariables_StaticFunctions.cpp - Static variables and functions
+:white_check_mark: CPP033_Variabili_e_Metodi_Costanti.cpp - Variabili e metodi costanti
 
-:white_check_mark: CPP033_Constant_Variables_and_Methods.cpp - Constant variables and methods
+:white_check_mark: CPP034_Funzione_Amica_Contenitore.cpp - Funzione amica contenitore
 
-:white_check_mark: CPP034_Friend_Function.cpp - Friend function
+:white_check_mark: CPP035_Classi_Amiche.cpp - Classi amiche
 
-:white_check_mark: CPP035_Friend_Classes.cpp - Friend Classes
+:white_check_mark: CPP036_Costruttore_di_Copia.cpp - Costruttore di copia
 
-:white_check_mark: CPP036_Copy_Constructor.cpp - Copy Constructor
+:white_check_mark: CPP037_Overload_Operatori.cpp - Overload degli operatori
 
-:white_check_mark: CPP037_Operator_Overloading.cpp - Operator Overloading
+:white_check_mark: CPP038_Funzioni_Virtuali.cpp - Funzioni virtuali
 
-:white_check_mark: CPP038_Virtual_Function.cpp - Virtual Function
+:white_check_mark: CPP039_Classi_Astratte_Funzioni_Virtuali_Pure.cpp - Classi astratte e funzioni virtuali pure
 
-:white_check_mark: CPP039_AbstractClass_PureVirtualFunction.cpp - Abstract Class & Pure Virtual Function
+:white_check_mark: CPP040_Gestione_Exception.cpp - Gestione delle eccezioni
 
-:white_check_mark: CPP040_Exception_Handling.cpp - Handling Exceptions
-
-:white_check_mark: CPP041_Namespaces.cpp - Understanding Namespaces
+:white_check_mark: CPP041_Namespaces.cpp - Comprensione dei namespaces
 
 
 ***Prodotto con :blue_heart: Tridib***
