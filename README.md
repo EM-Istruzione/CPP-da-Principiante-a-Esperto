@@ -24,51 +24,51 @@ Struttura della repository e argomenti trattati:
 
 :white_check_mark: CPP009_Arrays.cpp - Arrays (Vettori)
 
+:white_check_mark: CPP010_Array_Multidimensionali_Matrici.cpp - Array multidimensionali e matrici
+
+:white_check_mark: CPP011_For.cpp - Ciclo For
+
+:white_check_mark: CPP012_While_DoWhile.cpp - Ciclo While e Do While
+
+:white_check_mark: CPP013_Esercizio_Conta_Cifre.cpp - Contare il numero di cifre in un numero
+
+:white_check_mark: CPP014_Cicli_Annidati.cpp - Cicli annidati
+
+:white_check_mark: CPP015_Break_Continue.cpp - Break e Continue
+
+:white_check_mark: CPP016_Scope_Variabili.cpp - Ambito delle variabili
+
+:white_check_mark: CPP017_Funzioni.cpp - Comprendere le funzioni
+
+:white_check_mark: CPP018_Overloading_Funzioni.cpp - Overloading delle funzioni
+
+:white_check_mark: CPP019_Esercizio_Calcola_Area.cpp - Calcolare l'area di cerchio, quadrato, rettangolo, triangolo utilizzando funzioni
+
+:white_check_mark: CPP020_ENUM.cpp - Tipi enumerati
+
+:white_check_mark: CPP021_Variabili_Alias.cpp - Variabili alias
+
+:white_check_mark: CPP022_Funzioni_Argomenti_Per_Riferimento.cpp - Funzioni con argomenti per riferimento
+
+:white_check_mark: CPP023_Puntatori.cpp - Puntatori
+
+:white_check_mark: CPP024_Puntatori_in_Array.cpp - Puntatori e array
+
+:white_check_mark: CPP025_Allocazione_Dinamica_Memoria.cpp - Allocazione dinamica della memoria
+
+:white_check_mark: CPP026_String_Char_Puntatori.cpp - Gestione di stringhe, char e puntatori
+
+:white_check_mark: CPP027_Funzioni_e_Puntatori.cpp - Passare array di puntatori a funzioni
+
+:white_check_mark: CPP028_Numeri_Pseudocasuali_Esercizio_Lotteria.cpp - Generare numeri casuali per esercizio della lotteria
+
+:white_check_mark: CPP029_Casting_Tipi.cpp - Casting di tipi
+
+:white_check_mark: CPP030_Strutture.cpp - Strutture
+
+:white_check_mark: CPP031_Classi.cpp - Classi, costruttori, distruttori
+
 **WIP:**
-
-:white_check_mark: CPP010_Multidimensional_Arrays.cpp - Multidimensional Arrays
-
-:white_check_mark: CPP011_For.cpp - For Loop
-
-:white_check_mark: CPP012_While_DoWhile.cpp - While Loop & Do While Loop
-
-:white_check_mark: CPP013_Counting_Digits_Exercise.cpp - Counting the number of digits in a number
-
-:white_check_mark: CPP014_Nested_Loops.cpp - Nested Loops
-
-:white_check_mark: CPP015_Break_Continue.cpp - Break & Continue
-
-:white_check_mark: CPP016_Variables_Scope.cpp - Scope of Variables
-
-:white_check_mark: CPP017_Functions.cpp - Understanding Functions
-
-:white_check_mark: CPP018_Overloading_Functions.cpp - Function Overloading
-
-:white_check_mark: CPP019_CalculateArea_Exercise.cpp - Calculate the area of Circle, Square, Rectangle, Triangle using functions
-
-:white_check_mark: CPP020_Enumeration.cpp - Enumerated Types
-
-:white_check_mark: CPP021_ReferenceVariables.cpp - Reference Variables
-
-:white_check_mark: CPP022_ReferenceVariables_Functions.cpp - Reference Variables and Functions 
-
-:white_check_mark: CPP023_Pointers.cpp - Pointers
-
-:white_check_mark: CPP024_Pointers_in_Arrays.cpp - Pointers & Arrays
-
-:white_check_mark: CPP025_Dynamic_Memory_Allocation.cpp - Dynamic Memory Allocation
-
-:white_check_mark: CPP026_String_Char_Pointers.cpp - Dealing with string, char & pointers
-
-:white_check_mark: CPP027_Functions_and_Pointers.cpp - Passing pointer array to functions
-
-:white_check_mark: CPP028_Lottery_Exercise.cpp - Generate random winners in a lottery
-
-:white_check_mark: CPP029_Type_Casting.cpp - Type casting
-
-:white_check_mark: CPP030_Structure.cpp - Structures
-
-:white_check_mark: CPP031_Classes.cpp - Classes, Constructors, Destructors 
 
 :white_check_mark: CPP032_StaticVariables_StaticFunctions.cpp - Static variables and functions
 
