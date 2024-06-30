@@ -5,25 +5,31 @@
  * Updated:         30.06.2024
  **/
 
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 int main(void) {
-    int i=0;
-    while(i<10) {
-        cout<<"Hello"<<endl;
-        //Increment inside the body of the loop
+    int i = 0;
+    
+    // Ciclo while: stampa "Hello" 10 volte
+    while (i < 10) {
+        cout << "Hello" << endl;
+        // Incremento all'interno del corpo del ciclo
         i++;
     }
-    int j=10;
-    while(j--)
-        cout<<j<<endl;
+    
+    int j = 10;
+    
+    // Ciclo while: decrementa j e stampa il suo valore finché j non è 0
+    while (j--)
+        cout << j << endl;
 
-    //Does not check the condition at the beginning
-    //Hence execute instructions inside the do block at least once
+    // Non verifica la condizione all'inizio
+    // Esegue quindi le istruzioni all'interno del blocco do almeno una volta
     do {
-        cout<<"Hello"<<endl;
+        cout << "Hello" << endl;
         i--;
-    }
-    while(i);
+    } while (i);
+
+    return 0;
 }
